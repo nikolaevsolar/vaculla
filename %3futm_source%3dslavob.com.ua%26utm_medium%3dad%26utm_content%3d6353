@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1">
+    <link rel="pingback" href="https://www.vkamenev.com/xmlrpc.php" />
+   <title>Вячеслав Каменев — профессиональный биоэнергетик, парапсихолог и экстрасенс.</title>
+    <link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.vkamenev.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.7"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.vkamenev.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='style-theme-css'  href='https://www.vkamenev.com/wp-content/themes/kamenev/assets/css/style.bundle.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.vkamenev.com/wp-includes/css/dashicons.min.css?ver=5.2.7' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://www.vkamenev.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.vkamenev.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.vkamenev.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.7" />
+<link rel="canonical" href="https://www.vkamenev.com/" />
+<link rel='shortlink' href='https://www.vkamenev.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.vkamenev.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.vkamenev.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.vkamenev.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.vkamenev.com%2F&#038;format=xml" />
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '2867500400030581');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=2867500400030581&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --><script type="text/javascript">var Arrive=function(c,e,d){"use strict";if(c.MutationObserver&&"undefined"!=typeof HTMLElement){var a,t,r=0,u=(a=HTMLElement.prototype.matches||HTMLElement.prototype.webkitMatchesSelector||HTMLElement.prototype.mozMatchesSelector||HTMLElement.prototype.msMatchesSelector,{matchesSelector:function(e,t){return e instanceof HTMLElement&&a.call(e,t)},addMethod:function(e,t,a){var r=e[t];e[t]=function(){return a.length==arguments.length?a.apply(this,arguments):"function"==typeof r?r.apply(this,arguments):void 0}},callCallbacks:function(e,t){t&&t.options.onceOnly&&1==t.firedElems.length&&(e=[e[0]]);for(var a,r=0;a=e[r];r++)a&&a.callback&&a.callback.call(a.elem,a.elem);t&&t.options.onceOnly&&1==t.firedElems.length&&t.me.unbindEventWithSelectorAndCallback.call(t.target,t.selector,t.callback)},checkChildNodesRecursively:function(e,t,a,r){for(var i,n=0;i=e[n];n++)a(i,t,r)&&r.push({callback:t.callback,elem:i}),0<i.childNodes.length&&u.checkChildNodesRecursively(i.childNodes,t,a,r)},mergeArrays:function(e,t){var a,r={};for(a in e)e.hasOwnProperty(a)&&(r[a]=e[a]);for(a in t)t.hasOwnProperty(a)&&(r[a]=t[a]);return r},toElementsArray:function(e){return void 0===e||"number"==typeof e.length&&e!==c||(e=[e]),e}}),w=((t=function(){this._eventsBucket=[],this._beforeAdding=null,this._beforeRemoving=null}).prototype.addEvent=function(e,t,a,r){var i={target:e,selector:t,options:a,callback:r,firedElems:[]};return this._beforeAdding&&this._beforeAdding(i),this._eventsBucket.push(i),i},t.prototype.removeEvent=function(e){for(var t,a=this._eventsBucket.length-1;t=this._eventsBucket[a];a--)if(e(t)){this._beforeRemoving&&this._beforeRemoving(t);var r=this._eventsBucket.splice(a,1);r&&r.length&&(r[0].callback=null)}},t.prototype.beforeAdding=function(e){this._beforeAdding=e},t.prototype.beforeRemoving=function(e){this._beforeRemoving=e},t),l=function(i,n){var l=new w,o=this,s={fireOnAttributesModification:!1};return l.beforeAdding(function(t){var e,a=t.target;a!==c.document&&a!==c||(a=document.getElementsByTagName("html")[0]),e=new MutationObserver(function(e){n.call(this,e,t)});var r=i(t.options);e.observe(a,r),t.observer=e,t.me=o}),l.beforeRemoving(function(e){e.observer.disconnect()}),this.bindEvent=function(e,t,a){t=u.mergeArrays(s,t);for(var r=u.toElementsArray(this),i=0;i<r.length;i++)l.addEvent(r[i],e,t,a)},this.unbindEvent=function(){var a=u.toElementsArray(this);l.removeEvent(function(e){for(var t=0;t<a.length;t++)if(this===d||e.target===a[t])return!0;return!1})},this.unbindEventWithSelectorOrCallback=function(a){var e,r=u.toElementsArray(this),i=a;e="function"==typeof a?function(e){for(var t=0;t<r.length;t++)if((this===d||e.target===r[t])&&e.callback===i)return!0;return!1}:function(e){for(var t=0;t<r.length;t++)if((this===d||e.target===r[t])&&e.selector===a)return!0;return!1},l.removeEvent(e)},this.unbindEventWithSelectorAndCallback=function(a,r){var i=u.toElementsArray(this);l.removeEvent(function(e){for(var t=0;t<i.length;t++)if((this===d||e.target===i[t])&&e.selector===a&&e.callback===r)return!0;return!1})},this},i=new function(){var s={fireOnAttributesModification:!1,onceOnly:!1,existing:!1};function n(e,t,a){return!(!u.matchesSelector(e,t.selector)||(e._id===d&&(e._id=r++),-1!=t.firedElems.indexOf(e._id))||(t.firedElems.push(e._id),0))}var c=(i=new l(function(e){var t={attributes:!1,childList:!0,subtree:!0};return e.fireOnAttributesModification&&(t.attributes=!0),t},function(e,i){e.forEach(function(e){var t=e.addedNodes,a=e.target,r=[];null!==t&&0<t.length?u.checkChildNodesRecursively(t,i,n,r):"attributes"===e.type&&n(a,i)&&r.push({callback:i.callback,elem:a}),u.callCallbacks(r,i)})})).bindEvent;return i.bindEvent=function(e,t,a){t=void 0===a?(a=t,s):u.mergeArrays(s,t);var r=u.toElementsArray(this);if(t.existing){for(var i=[],n=0;n<r.length;n++)for(var l=r[n].querySelectorAll(e),o=0;o<l.length;o++)i.push({callback:a,elem:l[o]});if(t.onceOnly&&i.length)return a.call(i[0].elem,i[0].elem);setTimeout(u.callCallbacks,1,i)}c.call(this,e,t,a)},i},o=new function(){var r={};function i(e,t){return u.matchesSelector(e,t.selector)}var n=(o=new l(function(){return{childList:!0,subtree:!0}},function(e,r){e.forEach(function(e){var t=e.removedNodes,a=[];null!==t&&0<t.length&&u.checkChildNodesRecursively(t,r,i,a),u.callCallbacks(a,r)})})).bindEvent;return o.bindEvent=function(e,t,a){t=void 0===a?(a=t,r):u.mergeArrays(r,t),n.call(this,e,t,a)},o};e&&g(e.fn),g(HTMLElement.prototype),g(NodeList.prototype),g(HTMLCollection.prototype),g(HTMLDocument.prototype),g(Window.prototype);var n={};return s(i,n,"unbindAllArrive"),s(o,n,"unbindAllLeave"),n}function s(e,t,a){u.addMethod(t,a,e.unbindEvent),u.addMethod(t,a,e.unbindEventWithSelectorOrCallback),u.addMethod(t,a,e.unbindEventWithSelectorAndCallback)}function g(e){e.arrive=i.bindEvent,s(i,e,"unbindArrive"),e.leave=o.bindEvent,s(o,e,"unbindLeave")}}(window,"undefined"==typeof jQuery?null:jQuery,void 0);function check_webp_feature(e,t){var a=new Image;a.onload=function(){var e=0<a.width&&0<a.height;t(e)},a.onerror=function(){t(!1)},a.src="data:image/webp;base64,"+{alpha:"UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAARBxAR/Q9ERP8DAABWUDggGAAAABQBAJ0BKgEAAQAAAP4AAA3AAP7mtQAAAA==",animation:"UklGRlIAAABXRUJQVlA4WAoAAAASAAAAAAAAAAAAQU5JTQYAAAD/////AABBTk1GJgAAAAAAAAAAAAAAAAAAAGQAAABWUDhMDQAAAC8AAAAQBxAREYiI/gcA"}[e]}function ewwwLoadImages(e){var n="data-";function t(e,t){for(var a=["accesskey","align","alt","border","class","contenteditable","contextmenu","crossorigin","dir","draggable","dropzone","height","hidden","hspace","id","ismap","lang","longdesc","sizes","spellcheck","style","tabindex","title","translate","usemap","vspace","width","data-attachment-id","data-caption","data-comments-opened","data-event-trigger","data-height","data-highlight-color","data-highlight-border-color","data-highlight-border-opacity","data-highlight-border-width","data-highlight-opacity","data-image-meta","data-image-title","data-image-description","data-large_image_width","data-large_image_height","data-lazy","data-lazy-type","data-no-lazy","data-orig-size","data-permalink","data-width"],r=0,i=a.length;r<i;r++)ewwwAttr(t,a[r],e.getAttribute(n+a[r]));return t}if(e){for(var a=document.querySelectorAll(".batch-image img, .image-wrapper a, .ngg-pro-masonry-item a, .ngg-galleria-offscreen-seo-wrapper a"),r=0,i=a.length;r<i;r++)ewwwAttr(a[r],"data-src",a[r].getAttribute("data-webp")),ewwwAttr(a[r],"data-thumbnail",a[r].getAttribute("data-webp-thumbnail"));for(r=0,i=(o=document.querySelectorAll(".rev_slider ul li")).length;r<i;r++){ewwwAttr(o[r],"data-thumb",o[r].getAttribute("data-webp-thumb"));for(var l=1;l<11;)ewwwAttr(o[r],"data-param"+l,o[r].getAttribute("data-webp-param"+l)),l++}var o;for(r=0,i=(o=document.querySelectorAll(".rev_slider img")).length;r<i;r++)ewwwAttr(o[r],"data-lazyload",o[r].getAttribute("data-webp-lazyload"));var s=document.querySelectorAll("div.woocommerce-product-gallery__image");for(r=0,i=s.length;r<i;r++)ewwwAttr(s[r],"data-thumb",s[r].getAttribute("data-webp-thumb"))}var c=document.querySelectorAll("videos");for(r=0,i=c.length;r<i;r++)ewwwAttr(c[r],"poster",e?c[r].getAttribute("data-poster-webp"):c[r].getAttribute("data-poster-image"));var d=document.querySelectorAll("img.ewww_webp_lazy_load");for(r=0,i=d.length;r<i;r++){if(e){ewwwAttr(d[r],"data-lazy-srcset",d[r].getAttribute("data-lazy-srcset-webp")),ewwwAttr(d[r],"data-srcset",d[r].getAttribute("data-srcset-webp")),ewwwAttr(d[r],"data-lazy-src",d[r].getAttribute("data-lazy-src-webp")),ewwwAttr(d[r],"data-src",d[r].getAttribute("data-src-webp")),ewwwAttr(d[r],"data-orig-file",d[r].getAttribute("data-webp-orig-file")),ewwwAttr(d[r],"data-medium-file",d[r].getAttribute("data-webp-medium-file")),ewwwAttr(d[r],"data-large-file",d[r].getAttribute("data-webp-large-file"));var u=d[r].getAttribute("srcset");null!=u&&!1!==u&&u.includes("R0lGOD")&&ewwwAttr(d[r],"src",d[r].getAttribute("data-lazy-src-webp"))}d[r].className=d[r].className.replace(/\bewww_webp_lazy_load\b/,"")}var w=document.querySelectorAll(".ewww_webp");for(r=0,i=w.length;r<i;r++){var g=document.createElement("img");e?(ewwwAttr(g,"src",w[r].getAttribute("data-webp")),ewwwAttr(g,"srcset",w[r].getAttribute("data-srcset-webp")),ewwwAttr(g,"data-orig-file",w[r].getAttribute("data-orig-file")),ewwwAttr(g,"data-orig-file",w[r].getAttribute("data-webp-orig-file")),ewwwAttr(g,"data-medium-file",w[r].getAttribute("data-medium-file")),ewwwAttr(g,"data-medium-file",w[r].getAttribute("data-webp-medium-file")),ewwwAttr(g,"data-large-file",w[r].getAttribute("data-large-file")),ewwwAttr(g,"data-large-file",w[r].getAttribute("data-webp-large-file")),ewwwAttr(g,"data-large_image",w[r].getAttribute("data-large_image")),ewwwAttr(g,"data-large_image",w[r].getAttribute("data-webp-large_image")),ewwwAttr(g,"data-src",w[r].getAttribute("data-src")),ewwwAttr(g,"data-src",w[r].getAttribute("data-webp-src"))):(ewwwAttr(g,"src",w[r].getAttribute("data-img")),ewwwAttr(g,"srcset",w[r].getAttribute("data-srcset-img")),ewwwAttr(g,"data-orig-file",w[r].getAttribute("data-orig-file")),ewwwAttr(g,"data-medium-file",w[r].getAttribute("data-medium-file")),ewwwAttr(g,"data-large-file",w[r].getAttribute("data-large-file")),ewwwAttr(g,"data-large_image",w[r].getAttribute("data-large_image")),ewwwAttr(g,"data-src",w[r].getAttribute("data-src"))),g=t(w[r],g),w[r].parentNode.insertBefore(g,w[r].nextSibling),w[r].className=w[r].className.replace(/\bewww_webp\b/,"")}window.jQuery&&jQuery.fn.isotope&&jQuery.fn.imagesLoaded&&(jQuery(".fusion-posts-container-infinite").imagesLoaded(function(){jQuery(".fusion-posts-container-infinite").hasClass("isotope")&&jQuery(".fusion-posts-container-infinite").isotope()}),jQuery(".fusion-portfolio:not(.fusion-recent-works) .fusion-portfolio-wrapper").imagesLoaded(function(){jQuery(".fusion-portfolio:not(.fusion-recent-works) .fusion-portfolio-wrapper").isotope()}))}function ewwwWebPInit(e){ewwwLoadImages(e),ewwwNggLoadGalleries(e),document.arrive(".ewww_webp",function(){ewwwLoadImages(e)}),document.arrive(".ewww_webp_lazy_load",function(){ewwwLoadImages(e)});var t=0,a=setInterval(function(){"undefined"!=typeof galleries&&(ewwwNggParseGalleries(e),clearInterval(a)),1e3<(t+=25)&&clearInterval(a)},25)}function ewwwAttr(e,t,a){null!=a&&!1!==a&&e.setAttribute(t,a)}function ewwwNggParseGalleries(e){if(e)for(var t in galleries){var a=galleries[t];galleries[t].images_list=ewwwNggParseImageList(a.images_list)}}function ewwwNggLoadGalleries(e){e&&document.addEventListener("ngg.galleria.themeadded",function(e,t){window.ngg_galleria._create_backup=window.ngg_galleria.create,window.ngg_galleria.create=function(e,t){var a=$(e).data("id");return galleries["gallery_"+a].images_list=ewwwNggParseImageList(galleries["gallery_"+a].images_list),window.ngg_galleria._create_backup(e,t)}})}function ewwwNggParseImageList(e){for(var t in e){var a=e[t];if(void 0!==a["image-webp"]&&(e[t].image=a["image-webp"],delete e[t]["image-webp"]),void 0!==a["thumb-webp"]&&(e[t].thumb=a["thumb-webp"],delete e[t]["thumb-webp"]),void 0!==a.full_image_webp&&(e[t].full_image=a.full_image_webp,delete e[t].full_image_webp),void 0!==a.srcsets)for(var r in a.srcsets)nggSrcset=a.srcsets[r],void 0!==a.srcsets[r+"-webp"]&&(e[t].srcsets[r]=a.srcsets[r+"-webp"],delete e[t].srcsets[r+"-webp"]);if(void 0!==a.full_srcsets)for(var i in a.full_srcsets)nggFSrcset=a.full_srcsets[i],void 0!==a.full_srcsets[i+"-webp"]&&(e[t].full_srcsets[i]=a.full_srcsets[i+"-webp"],delete e[t].full_srcsets[i+"-webp"])}return e}check_webp_feature("alpha",ewwwWebPInit);</script><link rel="icon" href="https://www.vkamenev.com/wp-content/uploads/2019/10/cropped-лого-2-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.vkamenev.com/wp-content/uploads/2019/10/cropped-лого-2-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://www.vkamenev.com/wp-content/uploads/2019/10/cropped-лого-2-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.vkamenev.com/wp-content/uploads/2019/10/cropped-лого-2-270x270.png" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header" id="header">
+        <div class="container">
+          <div class="row">
+            <div class="col-12 d-flex justify-content-between align-items-center">
+                            <ul class="social-links">
+                                  <li><a href="https://www.facebook.com/profile.php?id=100014216137157"><img src="https://www.vkamenev.com/wp-content/uploads/2019/10/facebook-logo.svg" alt=""></a></li>
+                                  <li><a href="https://www.instagram.com/kamenev.official/"><img src="https://www.vkamenev.com/wp-content/uploads/2019/10/instagram.svg" alt=""></a></li>
+                                  <li><a href="https://www.youtube.com/channel/UC3Fwr15RPLU0vQN27uP6ZPQ?view_as=subscriber"><img src="https://www.vkamenev.com/wp-content/uploads/2019/10/youtube-logotype.svg" alt=""></a></li>
+                                  <li><a href="https://t.me/KamenevSlava"><img src="https://www.vkamenev.com/wp-content/uploads/2019/10/telegram.svg" alt=""></a></li>
+                              </ul>
+                          <a class="logo" href="/"><img src="https://www.vkamenev.com/wp-content/uploads/2019/10/logo.svg" alt=""></a>
+                            <div class="btn-menu"><span></span><span></span><span></span><span></span></div>
+              <div class="mobile-menu">
+                <ul>
+                                        <li><a class="scroll-to" href="#about">Обо мне</a></li>
+                                        <li><a class="scroll-to" href="#services">Услуги</a></li>
+                                        <li><a class="scroll-to" href="#reviews">Отзывы</a></li>
+                                        <li><a class="scroll-to" href="#contacts">Оставить заявку</a></li>
+                                  </ul>
+              </div>
+                           </div>
+          </div>
+        </div>
+      </header><section class="hero" style="background-image: url(https://www.vkamenev.com/wp-content/uploads/2019/10/hero-bg-min.jpg);">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-6 hero__left">
+              <h1 class="hero__title">Найди путь к себе</h1>
+              <p class="hero__text">Каждый человек заслуживает на счастье. Моя миссия помочь обрести свой путь к себе и стать по истине счастливым и успешным человеком.</p><a class="hero__btn fancybox" data-touch="false" data-auto-focus="false" href="#callback">Оставить заявку</a>
+            </div>
+            <div class="col-lg-6 hero__right">
+              <div class="hero__video play-video"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/hero-video.jpg" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/hero-video.jpg.webp" data-class="hero__video-img" class="ewww_webp"><img class="hero__video-img" src="https://www.vkamenev.com/wp-content/uploads/2019/10/hero-video.jpg" alt=""></noscript>
+                <div class="hero__video-play-btn"> 
+                  <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 41.999 41.999" style="enable-background:new 0 0 41.999 41.999;" xml:space="preserve">
+                    <path d="M36.068,20.176l-29-20C6.761-0.035,6.363-0.057,6.035,0.114C5.706,0.287,5.5,0.627,5.5,0.999v40 c0,0.372,0.206,0.713,0.535,0.886c0.146,0.076,0.306,0.114,0.465,0.114c0.199,0,0.397-0.06,0.568-0.177l29-20 c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z"></path>
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="about-section section" id="about">
+        <div class="about-section__row">
+          <div class="container">
+            <div class="row">
+              <div class="col-12">
+                <div class="about-section__text">
+                  <div class="load-more d-lg-none">Читать дальше
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 407.437 407.437" style="enable-background:new 0 0 407.437 407.437;" xml:space="preserve">
+                      <polygon points="386.258,91.567 203.718,273.512 21.179,91.567 0,112.815 203.718,315.87 407.437,112.815 "></polygon>
+                    </svg>
+                  </div><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/about-img-1.jpg" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/about-img-1.jpg.webp" data-class="about-section__img" class="ewww_webp"><img class="about-section__img" src="https://www.vkamenev.com/wp-content/uploads/2019/10/about-img-1.jpg" alt=""></noscript>
+                  <div class="about-section__content">
+                    <p>Меня зовут Вячеслав Каменев. Я как и многие люди прошёл через множество разочарований в своей жизни. Одна из историй, которая потрясла меня, произошла со мной в 26 лет. Череда неудач, развод родителей и огромные финансовые потери буквально перевернули мою жизнь с ног на голову.</p>
+<p>Далее — глубокое разочарование в личной жизни. Вечный поиск той единственной женщины продолжительное время не давал результатов. Я чувствовал себя опустошенным. Одиноким. Чувствовал, что жизнь моя потеряла всякий смысл.</p>
+<p>Ко всему этому грузом прибавились серьёзные проблемы со здоровьем. Врачи мне приписывали различные болезни и бесконечное лечение. Энергия моя сравнялась с нулем, ровно как и моя жизнь — скатилась в пропасть разочарований и боли.</p>
+                    <div class="load-more d-none d-lg-flex">Читать дальше
+                      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 407.437 407.437" style="enable-background:new 0 0 407.437 407.437;" xml:space="preserve">
+                        <polygon points="386.258,91.567 203.718,273.512 21.179,91.567 0,112.815 203.718,315.87 407.437,112.815 "></polygon>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="about-section__hidden">
+          <div class="container">
+            <div class="row about-section__hidden-row">
+              <div class="col-12">
+                <div class="about-section__text"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/about-img-2.jpg" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/about-img-2.jpg.webp" class="ewww_webp"><img src="https://www.vkamenev.com/wp-content/uploads/2019/10/about-img-2.jpg" alt=""></noscript>
+                  <div class="about-section__content">
+                    <p>В один из дней, когда разочарование поглотило меня полностью, я обратился за помощью к биоэнергетику. В первую же встречу мне пришлось почувствовать силу чистку всего себя. Также, специалист сказала, что у меня есть дар. В тот момент я не придал значения ее словам, а лишь сконцентрировался на собственных ощущениях после приема.</p>
+<p>Главное, что я в тот момент понял — сила существует. Сила, которая может изменить все. Изменить меня. После этой встречи, я начал искать учителей и наставников, которые могли бы мне помочь. Но этот путь привёл меня к тому, что лучшим учителем для себя стал я сам. Ориентируясь на путь Ошо, Будды и Исуса — мне открылся мой путь. Путь к себе.</p>
+<p>Путь к счастью у всех людей один &#8212; это работать над собой. С тех пор, как мне пришлось пройти ряд испытаний и получить бесценный личный опыт, я разработал свою методику. Свою дорожную карту, которая ведёт человека к счастью!</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row about-section__hidden-row">
+              <div class="col-12">
+                <p><b>Обретая состояние счастья — ты вдруг понимаешь, что до этого был один лишь сон. Возможно, кошмарный сон. И сейчас, уже на протяжении 7 лет у меня началась настоящая, полная удовольствия и счастья ЖИЗНЬ. Моменты разочарований и нежелания жить уже давным-давно позади. Более того, я вспоминаю те дни с улыбкой на лице и благодарю вселенную, что дала мне возможность преодолеть трудности, найти себя и найти своё счастье.</b></p>
+              </div>
+            </div>
+            <div class="row about-section__hidden-row">
+              <div class="col-12"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/about-img-3.jpg" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/about-img-3.jpg.webp" data-class="img-responsive" class="ewww_webp"><img class="img-responsive" src="https://www.vkamenev.com/wp-content/uploads/2019/10/about-img-3.jpg" alt=""></noscript></div>
+            </div>
+            <div class="row about-section__hidden-row">
+              <div class="col-12">
+                <p>Теперь у меня есть любящая жена, есть дети, успешная карьера и стабильный финансовый доход. И плюс ко всему этому, я занимаюсь любимым делом, которое вдохновляет и наполняет мою жизнь смыслом. Я помогаю людям в ситуациях, в которых был сам. Мой путь &#8212; это саморазвитие. На своих консультациях, живых встречах и ретритах, где я подаю людям руку помощи и передаю своё состояние, я также ещё подсказываю как работать над собой, как обрести свой путь и быть по истине счастливым, а значит и успешным человеком на земле. Для своих учеников и просто друзей, я всегда рядом. Я учу людей быть самим для себя надежной точкой опоры. В этом заключается один из смыслов моего учения. Следующим этапом является учение о том, как полюбить себя и стать счастливым. мСчастье и любовь к себе способны решить абсолютно все Ваши проблемы. Вы по истине становитесь другим человеком. Вы трансформируетесь в лучшую версию себя. Я знаю, о чем говорю, потому что прошёл этот путь и предлагаю Вам пройти его за руку вместе со мной.Всем счастья! Всегда с Вами, Ваш друг Вячеслав Каменев. Люблю Вас!</p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-12">
+                <div class="close-btn">Скрыть текст
+                  <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 407.436 407.436" style="enable-background:new 0 0 407.436 407.436;" xml:space="preserve">
+                    <polygon points="203.718,91.567 0,294.621 21.179,315.869 203.718,133.924 386.258,315.869 407.436,294.621 "></polygon>
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section motivation-section">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <div class="figure"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/fig-around.png" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/fig-around.png.webp" data-class="figure__animated" class="ewww_webp"><img class="figure__animated" src="https://www.vkamenev.com/wp-content/uploads/2019/10/fig-around.png" alt=""></noscript><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/fig-main.png" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/fig-main.png.webp" data-class="figure__static-img" class="ewww_webp"><img class="figure__static-img" src="https://www.vkamenev.com/wp-content/uploads/2019/10/fig-main.png" alt=""></noscript></div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-lg-10 offset-lg-1">
+              <div class="row">
+                <div class="col-lg-6">
+                  В достижении таких целей, самое  главное — это менять свои привычки, впуская в свою жизнь все практики для достижения желаемого состояния, для ощущения истинного себя. Далее ты становишься совершенно другим человеком и у тебя меняются твои фальшивые  ценности на истинные. Именно для этого и нужен человеку я, чтобы менять его ценности.                 </div>
+                <div class="col-lg-6">
+                  Главной ценностью для себя становишься ты сам, после чего твоё состояние становится твоей точкой опоры это и есть та самая самодостаточность на которой основывается базовое понятия счастья. Твоя главная цель — это твоё состояние. Каждый человек — это энергия и информация. И когда ты стёр весь мусор из своей головы — ты счастлив. Счастье находится в нас, накапливая его внутри себя — все вокруг становиться реальным: хорошие личные отношения, материальные блага и здоровье.                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section service-section" id="services">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <h2 class="service-section__title">Услуги</h2>
+              <div class="service-item-list">
+                <div class="row">
+                                                              <div class="col-lg-4 col-md-6 col-12">
+                        <div class="service-card" data-tab="1"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/1-1.jpg" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/1-1.jpg.webp" data-class="service-card__img" class="ewww_webp"><img class="service-card__img" src="https://www.vkamenev.com/wp-content/uploads/2019/10/1-1.jpg" alt=""></noscript>
+                          <div class="service-card__inner">
+                            <div class="service-card__title">Консультация</div>
+                            <div class="service-card__text">
+                             <div class="load-more-white d-lg-flex">Подробнее
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 407.437 407.437" style="enable-background:new 0 0 407.437 407.437;" xml:space="preserve">
+                                  <polygon points="386.258,91.567 203.718,273.512 21.179,91.567 0,112.815 203.718,315.87 407.437,112.815 "></polygon>
+                                </svg>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="service-card__hidden" id="service-card__hidden-1">
+                          <div class="service-card__title">Консультация</div>
+                          <div class="service-card__text"><p>Личный приём, где я разбираю все волнующие Вас вопросы в разных сферах жизнедеятельности. Помогаю Вам разобраться с проблемами, поменять оценку к происходящему, обесценить моменты, которые мешают Вам чувствовать себя комфортно.</p>
+</div>
+                          <div class="hidden-btn">Скрыть текст
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 407.436 407.436" style="enable-background:new 0 0 407.436 407.436;" xml:space="preserve">
+                              <polygon points="203.718,91.567 0,294.621 21.179,315.869 203.718,133.924 386.258,315.869 407.436,294.621 "></polygon>
+                            </svg>
+                          </div>
+                        </div>
+                      </div>
+                                          <div class="col-lg-4 col-md-6 col-12">
+                        <div class="service-card" data-tab="2"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/55.jpg" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/55.jpg.webp" data-class="service-card__img" class="ewww_webp"><img class="service-card__img" src="https://www.vkamenev.com/wp-content/uploads/2019/10/55.jpg" alt=""></noscript>
+                          <div class="service-card__inner">
+                            <div class="service-card__title">Индивидуальная медитация</div>
+                            <div class="service-card__text">
+                             <div class="load-more-white d-lg-flex">Подробнее
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 407.437 407.437" style="enable-background:new 0 0 407.437 407.437;" xml:space="preserve">
+                                  <polygon points="386.258,91.567 203.718,273.512 21.179,91.567 0,112.815 203.718,315.87 407.437,112.815 "></polygon>
+                                </svg>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="service-card__hidden" id="service-card__hidden-2">
+                          <div class="service-card__title">Индивидуальная медитация</div>
+                          <div class="service-card__text"><p>Со мной можно легче и быстрее обрести навык эффективной медитации, без которой глобальных изменений в жизни ждать не стоит.</p>
+</div>
+                          <div class="hidden-btn">Скрыть текст
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 407.436 407.436" style="enable-background:new 0 0 407.436 407.436;" xml:space="preserve">
+                              <polygon points="203.718,91.567 0,294.621 21.179,315.869 203.718,133.924 386.258,315.869 407.436,294.621 "></polygon>
+                            </svg>
+                          </div>
+                        </div>
+                      </div>
+                                          <div class="col-lg-4 col-md-6 col-12">
+                        <div class="service-card" data-tab="3"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/44.jpg" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/44.jpg.webp" data-class="service-card__img" class="ewww_webp"><img class="service-card__img" src="https://www.vkamenev.com/wp-content/uploads/2019/10/44.jpg" alt=""></noscript>
+                          <div class="service-card__inner">
+                            <div class="service-card__title">Трансформация, энергетическая чистка</div>
+                            <div class="service-card__text">
+                             <div class="load-more-white d-lg-flex">Подробнее
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 407.437 407.437" style="enable-background:new 0 0 407.437 407.437;" xml:space="preserve">
+                                  <polygon points="386.258,91.567 203.718,273.512 21.179,91.567 0,112.815 203.718,315.87 407.437,112.815 "></polygon>
+                                </svg>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="service-card__hidden" id="service-card__hidden-3">
+                          <div class="service-card__title">Трансформация, энергетическая чистка</div>
+                          <div class="service-card__text"><p>Это ресурсная помощь в Вашем изменении, Вашего состояния, психического и физического здоровья. Энергетическая чистка — это избавление от порчи, проклятия, сглаза, деструктивных мыслей и состояний.</p>
+</div>
+                          <div class="hidden-btn">Скрыть текст
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 407.436 407.436" style="enable-background:new 0 0 407.436 407.436;" xml:space="preserve">
+                              <polygon points="203.718,91.567 0,294.621 21.179,315.869 203.718,133.924 386.258,315.869 407.436,294.621 "></polygon>
+                            </svg>
+                          </div>
+                        </div>
+                      </div>
+                                          <div class="col-lg-4 col-md-6 col-12">
+                        <div class="service-card" data-tab="4"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/7.jpg" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/7.jpg.webp" data-class="service-card__img" class="ewww_webp"><img class="service-card__img" src="https://www.vkamenev.com/wp-content/uploads/2019/10/7.jpg" alt=""></noscript>
+                          <div class="service-card__inner">
+                            <div class="service-card__title">Лекции, семинары и групповые встречи</div>
+                            <div class="service-card__text">
+                             <div class="load-more-white d-lg-flex">Подробнее
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 407.437 407.437" style="enable-background:new 0 0 407.437 407.437;" xml:space="preserve">
+                                  <polygon points="386.258,91.567 203.718,273.512 21.179,91.567 0,112.815 203.718,315.87 407.437,112.815 "></polygon>
+                                </svg>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="service-card__hidden" id="service-card__hidden-4">
+                          <div class="service-card__title">Лекции, семинары и групповые встречи</div>
+                          <div class="service-card__text"><p>Это основы мироздания (знание законов жизни ). На таких мероприятиях я делюсь своим опытом жизни, который привел меня к счастью, любви радости, материальным благам, успеху и крепкому здоровью.</p>
+</div>
+                          <div class="hidden-btn">Скрыть текст
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 407.436 407.436" style="enable-background:new 0 0 407.436 407.436;" xml:space="preserve">
+                              <polygon points="203.718,91.567 0,294.621 21.179,315.869 203.718,133.924 386.258,315.869 407.436,294.621 "></polygon>
+                            </svg>
+                          </div>
+                        </div>
+                      </div>
+                                          <div class="col-lg-4 col-md-6 col-12">
+                        <div class="service-card" data-tab="5"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/22-1.jpg" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/22-1.jpg.webp" data-class="service-card__img" class="ewww_webp"><img class="service-card__img" src="https://www.vkamenev.com/wp-content/uploads/2019/10/22-1.jpg" alt=""></noscript>
+                          <div class="service-card__inner">
+                            <div class="service-card__title">Ретрит</div>
+                            <div class="service-card__text">
+                             <div class="load-more-white d-lg-flex">Подробнее
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 407.437 407.437" style="enable-background:new 0 0 407.437 407.437;" xml:space="preserve">
+                                  <polygon points="386.258,91.567 203.718,273.512 21.179,91.567 0,112.815 203.718,315.87 407.437,112.815 "></polygon>
+                                </svg>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="service-card__hidden" id="service-card__hidden-5">
+                          <div class="service-card__title">Ретрит</div>
+                          <div class="service-card__text"><p>Это Ваша возможность, на день-два полностью погрузиться в себя (тотальная перезагрузка твоей жизни). Это возможность найти тишину внутри себя и стать счастливым человеком.</p>
+</div>
+                          <div class="hidden-btn">Скрыть текст
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 407.436 407.436" style="enable-background:new 0 0 407.436 407.436;" xml:space="preserve">
+                              <polygon points="203.718,91.567 0,294.621 21.179,315.869 203.718,133.924 386.258,315.869 407.436,294.621 "></polygon>
+                            </svg>
+                          </div>
+                        </div>
+                      </div>
+                                          <div class="col-lg-4 col-md-6 col-12">
+                        <div class="service-card" data-tab="6"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/22.jpg" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/22.jpg.webp" data-class="service-card__img" class="ewww_webp"><img class="service-card__img" src="https://www.vkamenev.com/wp-content/uploads/2019/10/22.jpg" alt=""></noscript>
+                          <div class="service-card__inner">
+                            <div class="service-card__title">А также ряд других услуг</div>
+                            <div class="service-card__text">
+                             <div class="load-more-white d-lg-flex">Подробнее
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 407.437 407.437" style="enable-background:new 0 0 407.437 407.437;" xml:space="preserve">
+                                  <polygon points="386.258,91.567 203.718,273.512 21.179,91.567 0,112.815 203.718,315.87 407.437,112.815 "></polygon>
+                                </svg>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="service-card__hidden" id="service-card__hidden-6">
+                          <div class="service-card__title">А также ряд других услуг</div>
+                          <div class="service-card__text"><p>Которые нацелены на изменения Вашей жизни, на то, чтобы Вы счастливым человеком. Среди таких услуг есть групповые медитации и групповые духовные практики.</p>
+</div>
+                          <div class="hidden-btn">Скрыть текст
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 407.436 407.436" style="enable-background:new 0 0 407.436 407.436;" xml:space="preserve">
+                              <polygon points="203.718,91.567 0,294.621 21.179,315.869 203.718,133.924 386.258,315.869 407.436,294.621 "></polygon>
+                            </svg>
+                          </div>
+                        </div>
+                      </div>
+                                                              <div class="service-item" id="service-item-1">
+                        <div class="service-item__inner">
+                          <div class="row">
+                            <div class="col-lg-4 col-md-6"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/1-1.jpg" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/1-1.jpg.webp" data-class="service-item__img" class="ewww_webp"><img class="service-item__img" src="https://www.vkamenev.com/wp-content/uploads/2019/10/1-1.jpg" alt=""></noscript></div>
+                            <div class="col-lg-8 col-md-6">
+                              <div class="service-item__content">
+                                <h3 class="service-item__title">Консультация</h3>
+                                <div class="service-item__text"><p>Личный приём, где я разбираю все волнующие Вас вопросы в разных сферах жизнедеятельности. Помогаю Вам разобраться с проблемами, поменять оценку к происходящему, обесценить моменты, которые мешают Вам чувствовать себя комфортно.</p>
+ </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                                          <div class="service-item" id="service-item-2">
+                        <div class="service-item__inner">
+                          <div class="row">
+                            <div class="col-lg-4 col-md-6"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/55.jpg" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/55.jpg.webp" data-class="service-item__img" class="ewww_webp"><img class="service-item__img" src="https://www.vkamenev.com/wp-content/uploads/2019/10/55.jpg" alt=""></noscript></div>
+                            <div class="col-lg-8 col-md-6">
+                              <div class="service-item__content">
+                                <h3 class="service-item__title">Индивидуальная медитация</h3>
+                                <div class="service-item__text"><p>Со мной можно легче и быстрее обрести навык эффективной медитации, без которой глобальных изменений в жизни ждать не стоит.</p>
+ </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                                          <div class="service-item" id="service-item-3">
+                        <div class="service-item__inner">
+                          <div class="row">
+                            <div class="col-lg-4 col-md-6"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/44.jpg" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/44.jpg.webp" data-class="service-item__img" class="ewww_webp"><img class="service-item__img" src="https://www.vkamenev.com/wp-content/uploads/2019/10/44.jpg" alt=""></noscript></div>
+                            <div class="col-lg-8 col-md-6">
+                              <div class="service-item__content">
+                                <h3 class="service-item__title">Трансформация, энергетическая чистка</h3>
+                                <div class="service-item__text"><p>Это ресурсная помощь в Вашем изменении, Вашего состояния, психического и физического здоровья. Энергетическая чистка — это избавление от порчи, проклятия, сглаза, деструктивных мыслей и состояний.</p>
+ </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                                          <div class="service-item" id="service-item-4">
+                        <div class="service-item__inner">
+                          <div class="row">
+                            <div class="col-lg-4 col-md-6"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/7.jpg" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/7.jpg.webp" data-class="service-item__img" class="ewww_webp"><img class="service-item__img" src="https://www.vkamenev.com/wp-content/uploads/2019/10/7.jpg" alt=""></noscript></div>
+                            <div class="col-lg-8 col-md-6">
+                              <div class="service-item__content">
+                                <h3 class="service-item__title">Лекции, семинары и групповые встречи</h3>
+                                <div class="service-item__text"><p>Это основы мироздания (знание законов жизни ). На таких мероприятиях я делюсь своим опытом жизни, который привел меня к счастью, любви радости, материальным благам, успеху и крепкому здоровью.</p>
+ </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                                          <div class="service-item" id="service-item-5">
+                        <div class="service-item__inner">
+                          <div class="row">
+                            <div class="col-lg-4 col-md-6"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/22-1.jpg" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/22-1.jpg.webp" data-class="service-item__img" class="ewww_webp"><img class="service-item__img" src="https://www.vkamenev.com/wp-content/uploads/2019/10/22-1.jpg" alt=""></noscript></div>
+                            <div class="col-lg-8 col-md-6">
+                              <div class="service-item__content">
+                                <h3 class="service-item__title">Ретрит</h3>
+                                <div class="service-item__text"><p>Это Ваша возможность, на день-два полностью погрузиться в себя (тотальная перезагрузка твоей жизни). Это возможность найти тишину внутри себя и стать счастливым человеком.</p>
+ </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                                          <div class="service-item" id="service-item-6">
+                        <div class="service-item__inner">
+                          <div class="row">
+                            <div class="col-lg-4 col-md-6"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/22.jpg" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/22.jpg.webp" data-class="service-item__img" class="ewww_webp"><img class="service-item__img" src="https://www.vkamenev.com/wp-content/uploads/2019/10/22.jpg" alt=""></noscript></div>
+                            <div class="col-lg-8 col-md-6">
+                              <div class="service-item__content">
+                                <h3 class="service-item__title">А также ряд других услуг</h3>
+                                <div class="service-item__text"><p>Которые нацелены на изменения Вашей жизни, на то, чтобы Вы счастливым человеком. Среди таких услуг есть групповые медитации и групповые духовные практики.</p>
+ </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                                                      </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <div class="section-callback"  id="contacts">
+      <div class="container">
+        <div class="title-callback">оставить заявку</div>
+        <form class="form-main">
+          <div class="row">
+            <div class="col-lg-4">
+              <input type="text" name="front_name" placeholder="Ваше имя" class="input_name_mask" required="required">
+            </div>
+            <div class="col-lg-4">
+              <input type="text" name="front_phone" placeholder="Ваш телефон" class="input_phone" required="required">
+            </div>
+            <div class="col-lg-4">
+              <button class="btn-black" id="front_button">Отправить</button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+      <section class="reviews-section" id="reviews">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <h2 class="reviews-section__title">Отзывы</h2>
+                            <div class="reviews-slider">
+                                <div class="reviews-slider__item"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/2-—-копия.png" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/2-—-копия.png.webp" data-class="reviews-slider__item-avatar" class="ewww_webp"><img class="reviews-slider__item-avatar" src="https://www.vkamenev.com/wp-content/uploads/2019/10/2-—-копия.png" alt=""></noscript>
+                  <div class="reviews-slider__item-title">Владимир</div>
+                  <div class="reviews-slider__item-text"><p>Не могу передать словами! Просто нет слов, которыми можно было поделится теми чувствами и переживаниями после того как в моей жизни появился Слава. Испытываю благодарность к нему.</p>
+<p>Не знаю как дальше сложится моя жизнь, но Славе я буду благодарен всегда!</p>
+</div>
+                  <a class="reviews-slider__item-link" href="https://www.vkamenev.com/wp-content/uploads/2019/10/IMG_1760.jpg" data-fancybox>смотреть оригинал отзыва</a>
+                </div>
+                                 <div class="reviews-slider__item"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/2-—-копия-2.png" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/2-—-копия-2.png.webp" data-class="reviews-slider__item-avatar" class="ewww_webp"><img class="reviews-slider__item-avatar" src="https://www.vkamenev.com/wp-content/uploads/2019/10/2-—-копия-2.png" alt=""></noscript>
+                  <div class="reviews-slider__item-title">Анна</div>
+                  <div class="reviews-slider__item-text"><p>Однажды в Вашей жизни появится человек &#8212; Вячеслав Каменев, который меняет реальность. Все его слова, лекции говорят о главном, о тебе самом.</p>
+<p>Благодаря Вячеславу &#8212; это и есть твоя жизнь и есть ты!</p>
+</div>
+                  <a class="reviews-slider__item-link" href="https://www.vkamenev.com/wp-content/uploads/2019/10/IMG_1759.jpg" data-fancybox>смотреть оригинал отзыва</a>
+                </div>
+                                 <div class="reviews-slider__item"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/2-—-копия-4.png" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/2-—-копия-4.png.webp" data-class="reviews-slider__item-avatar" class="ewww_webp"><img class="reviews-slider__item-avatar" src="https://www.vkamenev.com/wp-content/uploads/2019/10/2-—-копия-4.png" alt=""></noscript>
+                  <div class="reviews-slider__item-title">Алиса</div>
+                  <div class="reviews-slider__item-text"><p>Чувствую подьем, вернулось мое состояние. Искренне благодарю за любовь и душевную щедрость, которая разливается безгранично и заряжает каждую клетку!</p>
+<p>Хочется дальше оставаться в этом поле, дальше сохранять это состояние.</p>
+</div>
+                  <a class="reviews-slider__item-link" href="https://www.vkamenev.com/wp-content/uploads/2019/10/IMG_1762.png" data-fancybox>смотреть оригинал отзыва</a>
+                </div>
+                                 <div class="reviews-slider__item"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/2.png" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/2.png.webp" data-class="reviews-slider__item-avatar" class="ewww_webp"><img class="reviews-slider__item-avatar" src="https://www.vkamenev.com/wp-content/uploads/2019/10/2.png" alt=""></noscript>
+                  <div class="reviews-slider__item-title">Светлана</div>
+                  <div class="reviews-slider__item-text"><p>Благодарю тебя за то, что ты транслируешь. Ты как добрый волшебник открываешь сердца и мировосприятие моментально меняется. Сознание тут же разворачивается вниманием на себя.</p>
+<p>Слава, спасибо за эфир. Трансляция просто неимоверная, состояние &#8212; просто кайф.</p>
+</div>
+                  <a class="reviews-slider__item-link" href="https://www.vkamenev.com/wp-content/uploads/2019/10/IMG_1461.jpg" data-fancybox>смотреть оригинал отзыва</a>
+                </div>
+                                 <div class="reviews-slider__item"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/2-—-копия-5.png" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/2-—-копия-5.png.webp" data-class="reviews-slider__item-avatar" class="ewww_webp"><img class="reviews-slider__item-avatar" src="https://www.vkamenev.com/wp-content/uploads/2019/10/2-—-копия-5.png" alt=""></noscript>
+                  <div class="reviews-slider__item-title">Юлия</div>
+                  <div class="reviews-slider__item-text"><p>Спасибо огромное Слава. Одна твоя чистка после полуторамесячного перерыва и я проснулась другим человеком, в состоянии покоя. Без боли в манипуре. Мои мысли больше меня не тревожат и все происходит так как нужно.</p>
+<p>Благодарю тебя!</p>
+</div>
+                  <a class="reviews-slider__item-link" href="https://www.vkamenev.com/wp-content/uploads/2019/10/photo_2019-10-30_20-18-14.jpg" data-fancybox>смотреть оригинал отзыва</a>
+                </div>
+                                 <div class="reviews-slider__item"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/2-—-копия-3.png" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/2-—-копия-3.png.webp" data-class="reviews-slider__item-avatar" class="ewww_webp"><img class="reviews-slider__item-avatar" src="https://www.vkamenev.com/wp-content/uploads/2019/10/2-—-копия-3.png" alt=""></noscript>
+                  <div class="reviews-slider__item-title">Катерина</div>
+                  <div class="reviews-slider__item-text"><p>Состояние просто волшебное!<br />
+Даже не хотелось отвлекаться, чтоб взять телефон и написать Вам. Легла и наслаждалась! Снова были моменты как в прошлый четверг на ретрите &#8212; будто через тело проходит ток.</p>
+<p>Благодарю Вас! Все изменения во мне &#8212; это не лично моя заслуга, а наш командный труд.</p>
+</div>
+                  <a class="reviews-slider__item-link" href="https://www.vkamenev.com/wp-content/uploads/2019/10/IMG_1457.jpg" data-fancybox>смотреть оригинал отзыва</a>
+                </div>
+                                 <div class="reviews-slider__item"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/11/отзыв-1.png" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/11/отзыв-1.png.webp" data-class="reviews-slider__item-avatar" class="ewww_webp"><img class="reviews-slider__item-avatar" src="https://www.vkamenev.com/wp-content/uploads/2019/11/отзыв-1.png" alt=""></noscript>
+                  <div class="reviews-slider__item-title">Олена</div>
+                  <div class="reviews-slider__item-text"><p>Славик! Я благодарю Вас за все.<br />
+Я чувствую жизнь!<br />
+Я чувствую вкус!<br />
+Я чувствую себя!<br />
+Я рада и счастлива быть открытой.<br />
+Я счастлива видеть, как открываются мои дети!</p>
+</div>
+                  <a class="reviews-slider__item-link" href="https://www.vkamenev.com/wp-content/uploads/2019/11/photo_2019-11-05_15-05-39.jpg" data-fancybox>смотреть оригинал отзыва</a>
+                </div>
+                                 <div class="reviews-slider__item"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/11/отзыв-2.png" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/11/отзыв-2.png.webp" data-class="reviews-slider__item-avatar" class="ewww_webp"><img class="reviews-slider__item-avatar" src="https://www.vkamenev.com/wp-content/uploads/2019/11/отзыв-2.png" alt=""></noscript>
+                  <div class="reviews-slider__item-title">Алина</div>
+                  <div class="reviews-slider__item-text"><p>То, что делает Вячеслав, невозможно описать словами, невозможно объяснить как из недовольного жизнью, страдающего, потерянного существа, которое приходит к нему на прием , в итоге получается довольный, счастливый человек. Это можно только почувствовать. И это понимают только те, кто с ним работает и кто готов меняться&#8230;</p>
+</div>
+                  <a class="reviews-slider__item-link" href="https://www.vkamenev.com/wp-content/uploads/2019/11/photo_2019-11-05_15-05-52.jpg" data-fancybox>смотреть оригинал отзыва</a>
+                </div>
+                                 <div class="reviews-slider__item"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/11/отзыв-3.png" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/11/отзыв-3.png.webp" data-class="reviews-slider__item-avatar" class="ewww_webp"><img class="reviews-slider__item-avatar" src="https://www.vkamenev.com/wp-content/uploads/2019/11/отзыв-3.png" alt=""></noscript>
+                  <div class="reviews-slider__item-title">Анна</div>
+                  <div class="reviews-slider__item-text"><p>Слова благодарности Вам уже звучат крайне тривиально. Но всё же, благодаря Вам столько нового открывается мне, а теперь &#8212;  и моим близким. Это удивительно прекрасный процесс, когда одна клетка в организме начинает транслировать нечто новое, и у её соседей открывается выбор, присоединится или нет. Трансформация одного человека ведёт за собой трансформацию мира&#8230;</p>
+</div>
+                  <a class="reviews-slider__item-link" href="https://www.vkamenev.com/wp-content/uploads/2019/11/photo_2019-11-05_15-06-08.jpg" data-fancybox>смотреть оригинал отзыва</a>
+                </div>
+                               </div>
+                           </div>
+          </div>
+        </div>
+      </section>
+      <section class="contacts-section">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-6"><noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/contact-img.jpg" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/contact-img.jpg.webp" data-class="contacts-section__img" class="ewww_webp"><img class="contacts-section__img" src="https://www.vkamenev.com/wp-content/uploads/2019/10/contact-img.jpg" alt=""></noscript></div>
+            <div class="col-lg-6">
+              <div class="contacts-section__content">
+                <h2 class="contacts-section__title">Напиши мне</h2>
+                <p class="contacts-section__text">Напиши мне в удобном для тебя мессенжере и я отвечу лично. Помогу тебе разобраться с твоим запросом и мы вместе выберем лучшее его решение!</p>
+                <ul class="contacts-section__list">
+                                      <li><a href="viber://chat?number=+380955958884"> <img src="https://www.vkamenev.com/wp-content/uploads/2019/10/viber.svg" alt=""><span>viber</span></a></li>
+                                      <li><a href="https://t.me/KamenevSlava"> <img src="https://www.vkamenev.com/wp-content/uploads/2019/10/telegram-color.svg" alt=""><span>telegram</span></a></li>
+                                      <li><a href="https://www.facebook.com/profile.php?id=100014216137157"> <noscript data-img="https://www.vkamenev.com/wp-content/uploads/2019/10/fb-icon.png" data-webp="https://www.vkamenev.com/wp-content/uploads/2019/10/fb-icon.png.webp" class="ewww_webp"><img src="https://www.vkamenev.com/wp-content/uploads/2019/10/fb-icon.png" alt=""></noscript><span>facebook</span></a></li>
+                                      <li><a href="https://www.instagram.com/kamenev.official/"> <img src="https://www.vkamenev.com/wp-content/uploads/2019/10/instagram-color.svg" alt=""><span>instagram</span></a></li>
+                                  </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <div class="video-screen">
+        <div class="video-container">
+          <div class="video-container__close">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 47.971 47.971" style="enable-background:new 0 0 47.971 47.971;" xml:space="preserve">
+              <path d="M28.228,23.986L47.092,5.122c1.172-1.171,1.172-3.071,0-4.242c-1.172-1.172-3.07-1.172-4.242,0L23.986,19.744L5.121,0.88          c-1.172-1.172-3.07-1.172-4.242,0c-1.172,1.171-1.172,3.071,0,4.242l18.865,18.864L0.879,42.85c-1.172,1.171-1.172,3.071,0,4.242          C1.465,47.677,2.233,47.97,3,47.97s1.535-0.293,2.121-0.879l18.865-18.864L42.85,47.091c0.586,0.586,1.354,0.879,2.121,0.879          s1.535-0.293,2.121-0.879c1.172-1.171,1.172-3.071,0-4.242L28.228,23.986z"></path>
+            </svg>
+          </div>
+          <video class="video" id="video" playsinline loop controls preload="auto"> 
+            <source src="https://www.vkamenev.com/wp-content/uploads/2019/11/Вячеслав-Каменев-Путь-к-себе.mp4" type="video/mp4" />         
+          </video>
+        </div>
+      </div>
+
+<footer class="footer" id="footer">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-3 d-flex d-lg-block justify-content-center"><a class="logo" href="/"><img src="https://www.vkamenev.com/wp-content/themes/kamenev/assets/static/img/logo.svg" alt=""></a></div>
+            <div class="col-lg-6">
+              <nav class="footer__nav">
+                <ul>
+                                        <li><a class="scroll-to" href="#about">Обо мне</a></li>
+                                        <li><a class="scroll-to" href="#services">Услуги</a></li>
+                                        <li><a class="scroll-to" href="#reviews">Отзывы</a></li>
+                                        <li><a class="scroll-to" href="#contacts">Оставить заявку</a></li>
+                                  </ul>
+              </nav>
+              <ul class="footer__info d-lg-none">
+                <li><a href="tel:+38 095 59 58 884">+38 095 59 58 884</a></li>
+                <li><a href="mailto:vbizkamenev@gmail.com">vbizkamenev@gmail.com</a></li>
+              </ul>
+              <ul class="social-links">
+                                  <li><a href="https://www.facebook.com/profile.php?id=100014216137157"><img src="https://www.vkamenev.com/wp-content/uploads/2019/10/facebook-logo.svg" alt=""></a></li>
+                                  <li><a href="https://www.instagram.com/kamenev.official/"><img src="https://www.vkamenev.com/wp-content/uploads/2019/10/instagram.svg" alt=""></a></li>
+                                  <li><a href="https://www.youtube.com/channel/UC3Fwr15RPLU0vQN27uP6ZPQ?view_as=subscriber"><img src="https://www.vkamenev.com/wp-content/uploads/2019/10/youtube-logotype.svg" alt=""></a></li>
+                                  <li><a href="https://t.me/KamenevSlava"><img src="https://www.vkamenev.com/wp-content/uploads/2019/10/telegram.svg" alt=""></a></li>
+                              </ul>
+            </div>
+            <div class="col-lg-3 d-none d-lg-block">
+              <ul class="footer__info">
+                <li><a href="tel:+38 095 59 58 884">+38 095 59 58 884</a></li>
+                <li><a href="mailto:vbizkamenev@gmail.com">vbizkamenev@gmail.com</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <div id="callback" class="modal-block">
+    <div class="modal-wrap">
+      <div class="title-modal">Оставить заявку</div>
+      <form class="form-main">
+        <input type="text" name="modal_name" placeholder="Ваше имя" class="input_name_mask" required="required">
+        <input type="text" name="modal_phone" placeholder="Ваш телефон" class="input_phone" required="required">
+        <button class="btn-black" id="modal_button">Отправить</button>
+      </form>
+    </div>
+  </div>
+  </body>
+  <script type='text/javascript' src='https://www.vkamenev.com/wp-content/themes/kamenev/assets/js/bundle.js?ver=5.2.7'></script>
+<script type='text/javascript' src='https://www.vkamenev.com/wp-includes/js/wp-embed.min.js?ver=5.2.7'></script>
+</html>
